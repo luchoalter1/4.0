@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Formulario</title>
+<meta name="Formulario" content="Yo programo 4.0">
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="script.js"></script>
+</head>
+<body>
+    <h1>Formulario</h1>
+    <form action="" method="get" name="Formulario de envio">
+        <!-en action va a la pagina que se envia y en method el get de la misma(con get envia los nombres de los campos y los refleja en el browser. Con "post" los mantiene invisibles en el back end, y seguros)->
+        <label">Nombre</label>
+        <input type="text" name="nombre" placeholder="ingrese su nombre">
+        <label>Apellido</label>
+        <input type="text" name="apellido"placeholder="ingrese su apellido">
+        <label>Email</label>
+        <input type="email" name="email"placeholder="ingrese su email">
+        <label>Password</label>
+        <input type="password" name="password" placeholder="ingrese su clave">
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>
