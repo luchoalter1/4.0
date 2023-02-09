@@ -50,10 +50,6 @@ header li {
     text-align: right;
   }
 
-li{
-    text-decoration: underline;
-}
-
 .borde-superior{
     border-radius: 32px;
     margin: 10px 10px;
