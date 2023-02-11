@@ -1,0 +1,18 @@
+.pie {
+    font-style: normal;
+    font-size: small;
+    color: #ffffff;
+} 
+
+.pie span {
+    font-style: normal;
+    font-size: small;
+    color: #6dc6eb
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px 0px;
+    margin: 0px;
+}
