@@ -6,6 +6,7 @@ body{
     background: -moz-linear-gradient(45deg, #2A8ADE 0%, #C7E5F2 50%, #FFFFFF 100%);
     background: -webkit-linear-gradient(45deg, #2A8ADE 0%, #C7E5F2 50%, #FFFFFF 100%);
     background: linear-gradient(45deg, #2A8ADE 0%, #C7E5F2 50%, #FFFFFF 100%);
+    margin: 0px;
 }
 
 header{
@@ -17,11 +18,11 @@ header{
 */
 }
 
-h1{
+body h1{
     font-style: bold;
     font-family: Helvetica, sans-serif;
     font-size: 3em;
-    color: rgb(252, 248, 248);
+    color: rgb(0, 0, 0);
     text-align: center;
     margin: 0px;
 }
