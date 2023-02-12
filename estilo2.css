@@ -5,6 +5,7 @@
 :root {
     --main-color: azure;
 }
+
 .bg-home {
     background-image: url(./imagenes/pexels-hasan-albari-1229861.jpg) ;
     text-align: center;
@@ -13,6 +14,10 @@
     background-size: cover;
     box-sizing: border-box;
     background-position-y: no-repeat center;
+    backdrop-filter: blur(10px);
+    background-color: aliceblue;
+    color: var(--main-color);
+    border-radius: 2em;
 }
 
 .bg-text{
