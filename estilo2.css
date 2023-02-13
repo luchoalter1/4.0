@@ -8,8 +8,8 @@
 
 .bg-home {
   background-image: url(./imagenes/pexels-hasan-albari-1229861.jpg);
-  text-align: center;
-  padding: 10px;
+  text-align: justify;
+  padding: 100px;
   height: 100vh;
   background-size: cover;
   box-sizing: border-box;
@@ -24,7 +24,8 @@
   color: var(--main-color);
   padding: 20px 60px;
   border-radius: 2em;
-  /*
+  position: absolute;
+  /* QUIERO DARLE ESTE FONDO AL TEXTO
 backdrop-filter: blur(1px);
 background-color: aliceblue;
 border-radius: 2em;
@@ -36,6 +37,8 @@ border-radius: 2em;
     font-variant-caps: small-caps; 
     font-stretch: expanded;
 }
+
+
 .pie {
   font-style: inherit;
   font-size: small;
