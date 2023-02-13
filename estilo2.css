@@ -15,7 +15,6 @@
     box-sizing: border-box;
     background-position-y: no-repeat center;
     backdrop-filter: blur(10px);
-    background-color: aliceblue;
     color: var(--main-color);
     
 }
