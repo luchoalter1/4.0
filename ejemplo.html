@@ -9,6 +9,8 @@
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/favicon.ico.ico" type="image/x-icon">
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
 <!--Open Graph data: Agregar ruta imagen y http de pagina en property-->
 <link rel="stylesheet" href="estilo2.css">
@@ -62,7 +64,10 @@
         <h2><bold>LENGUAJES USADOS</bold></h2>
       <div class="card mb-3" style="max-width: 800px;">
         <div class="row g-0">
-          <div class="col-md-4">
+          <div class="col-md-4"
+          data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
             <img src="/imagenes/unnamed.png" class="img-fluid rounded-start" alt="logo html">
           </div>
           <div class="col-md-8">
@@ -72,7 +77,7 @@
               <p class="card-text"><small class="text-muted">
                 <li>Manejo del DOOM</li>
                 <li>Ordenamiento eficiente del codigo</li>
-                <li></li>
+                <li>Manejo de clases, ids etc.</li>
               <div  id="Nivel">Nivel: Intermedio</div> 
               </small></p>
             </div>
@@ -81,7 +86,10 @@
       </div>
     <div class="card mb-3" style="max-width: 800px;">
       <div class="row g-0">
-        <div class="col-md-4">
+        <div class="col-md-4"
+        data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
           <img src="/imagenes/css.jpg" class="img-fluid rounded-start" alt="logo CSS">
         </div>
         <div class="col-md-8">
@@ -100,7 +108,10 @@
     </div>
   <div class="card mb-3" style="max-width: 800px;">
     <div class="row g-0">
-      <div class="col-md-4">
+      <div class="col-md-4"
+      data-aos="fade-right"
+     data-aos-offset="300"
+     data-aos-easing="ease-in-sine">
         <img src="/imagenes/jscript.png" class="img-fluid rounded-start" alt="logo JavaScript">
       </div>
       <div class="col-md-8">
@@ -121,11 +132,8 @@
 </div>
 </div>
     </section>
+    
     <section>
-      <h5>Hola</h5>
-      <h5>Hola</h5>
-      <h5>Hola</h5>
-      <h5>Hola</h5>
     </section>
       <footer>  
         <div class="pie">
@@ -133,5 +141,8 @@
         </div> 
     </footer>   
 </div>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>
