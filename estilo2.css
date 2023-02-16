@@ -44,8 +44,14 @@ border-radius: 2em;
 }
 
 .github {
-    opacity: .5;
+    opacity: .8;
     align-items: start;
+    border-radius: 20%;
+}
+
+.linkgit {
+  padding: 2px, 0px
+  
 }
 
 .imagencv{
