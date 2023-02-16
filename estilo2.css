@@ -22,7 +22,6 @@
 .bg-text {
   text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: var(--main-color);
   padding: 20px 60px;
   border-radius: 2em;
   position: absolute;
@@ -54,9 +53,13 @@ border-radius: 2em;
   
 }
 
-.imagencv{
+.avatar{
 height: 200px;
-
+width: 200px;
+background-repeat: no-repeat;
+background-position: 50%;
+border-radius: 50%;
+background-size: 100% auto;
 }
 
 h2 {
