@@ -8,10 +8,16 @@
 .img-fluid {
   height: 100%;
 }
+
+.navbar {
+  width: 100vw;
+}
+
 .bg-home {
   background-image: url(./imagenes/pexels-hasan-albari-1229861.jpg);
   padding: 100px;
-  height: 200vh;
+  height: 150vh;
+  width: 100vw;
   background-size: cover;
   box-sizing: border-box;
   background-position-y: no-repeat center center;
@@ -63,9 +69,18 @@ background-size: 100% auto;
 }
 
 
-
 .About {
+  padding: 50px;
+  text-shadow: 3px 3px 3px rgb(172, 162, 162)
+  }
+  
+.tit-about {
+text-align: center;
+padding: 20px;
+}
 
+.parrafoabout {
+  text-align: justify;
 }
 
 .tit-about {
