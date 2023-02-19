@@ -109,6 +109,7 @@ text-align: justify
 
 .card-title {
   text-align: center;
+  font-size: 1.5em;
 }
 
 h5 {
@@ -121,7 +122,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   font-size: 1.2em;
 }
 
-
+.card-img-top {
+  width: auto;
+}
 .pie {
   font-style: inherit;
   font-size: small;
