@@ -79,6 +79,7 @@ background-size: 100% auto;
 .tit-about {
 text-align: center;
 padding: 20px;
+text-decoration-line: underline;
 }
 
 .parrafoabout {
