@@ -90,11 +90,14 @@ padding: 20px;
 }
 
 h2 {
-  color: azure;
+color: white;
 padding: 15px;
 font-size: 2.5em;
 text-align: center;
-text-shadow: 2px 2px 2px rgb(15, 27, 48)
+text-shadow: 2px 2px 2px rgb(15, 27, 48);
+background-color: rgb(16, 16, 16);
+opacity: 0.8;
+border-radius: 20px;
 }
 
 .img-fluid {
@@ -105,10 +108,10 @@ text-shadow: 2px 2px 2px rgb(15, 27, 48)
 display: flex;
 flex-direction: column;
 align-items: center;
-background-color: #558aabd9;
+background-color: #e7f3fad9;
 padding: 30px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-text-align: justify
+text-align: justify;
 }
 
 .card-title {
@@ -135,6 +138,15 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 .card-img-top {
   width: auto;
 }
+
+.Formacion {
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+}
+
 .pie {
   font-style: inherit;
   font-size: small;
