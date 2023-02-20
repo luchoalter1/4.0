@@ -9,6 +9,10 @@
   height: 100%;
 }
 
+a {
+  color: aliceblue;
+}
+
 .navbar {
   width: 100vw;
 }
@@ -110,6 +114,12 @@ text-align: justify
 .card-title {
   text-align: center;
   font-size: 1.5em;
+}
+.card-title1 {
+  text-align: center;
+  font-size: 1.5em;
+  text-decoration-line: underline;
+  text-shadow: 2px 2px 2px rgb(81, 89, 103);
 }
 
 h5 {
