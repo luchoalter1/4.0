@@ -74,21 +74,21 @@ background-size: 100% auto;
 .About {
   padding: 50px;
   text-shadow: 3px 3px 3px rgb(24, 24, 24)
+  
   }
   
 .tit-about {
 text-align: center;
 padding: 20px;
 text-decoration-line: underline;
+font-size: 2.5em;
 }
 
 .parrafoabout {
-  text-align: justify;
+  text-align: center;
+  font-size: larger;
 }
 
-.tit-about {
-  font-size: 1.5em;
-}
 
 h2 {
 color: white;
