@@ -34,7 +34,7 @@ a {
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 20px 20px;
   align-items: center;
-  /* QUIERO DARLE ESTE FONDO AL TEXTO
+    /* QUIERO DARLE ESTE FONDO AL TEXTO
 backdrop-filter: blur(1px);
 background-color: aliceblue;
 border-radius: 2em;
@@ -58,7 +58,6 @@ border-radius: 2em;
 
 .linkgit {
   padding: 2px, 0px
-  
 }
 
 .avatar{
