@@ -91,13 +91,13 @@ font-size: 2.5em;
 
 h2 {
 color: white;
-padding: 15px;
+padding: 5px;
 font-size: 2.5em;
 text-align: center;
 text-shadow: 2px 2px 2px rgb(15, 27, 48);
 background-color: rgb(16, 16, 16);
 opacity: 0.8;
-border-radius: 20px;
+border-radius: 10px;
 }
 
 .img-fluid {
