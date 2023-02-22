@@ -19,7 +19,7 @@ a {
 
 .bg-home {
   background-image: url(./imagenes/pexels-hasan-albari-1229861.jpg);
-  padding: 100px;
+  padding: 70px;
   height: 150vh;
   width: 100vw;
   background-size: cover;
@@ -73,7 +73,6 @@ background-size: 100% auto;
 .About {
   padding: 50px;
   text-shadow: 3px 3px 3px rgb(24, 24, 24)
-  
   }
   
 .tit-about {
