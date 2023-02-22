@@ -17,6 +17,10 @@ a {
   width: 100vw;
 }
 
+#arg-pro {
+  padding: 5px;
+}
+
 .bg-home {
   background-image: url(./imagenes/pexels-hasan-albari-1229861.jpg);
   padding: 70px;
