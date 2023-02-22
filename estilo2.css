@@ -152,9 +152,9 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   font-weight: bold
 }
 
-#cv {
+#cv-text {
   font-style: italic;
-  padding: 10px;
+  padding: 5px;
 }
 
 #cv-button {
