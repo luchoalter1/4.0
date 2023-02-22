@@ -9,6 +9,10 @@
   height: 100%;
 }
 
+a {
+  color: rgb(119, 81, 246);
+}
+
 .navbar {
   width: 100vw;
 }
@@ -187,6 +191,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-image: linear-gradient(to bottom, #2079b0, #a1d4f4);
   text-decoration: none;
 }
+
 
 .pie {
   font-style: inherit;
