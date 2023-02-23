@@ -112,7 +112,6 @@ border-radius: 10px;
 .Lenguajes {
 display: flex;
 flex-direction: column;
-align-items: center;
 background-color: #f8f8f8d9;
 padding: 30px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
