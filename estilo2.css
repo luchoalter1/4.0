@@ -148,7 +148,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 .Formacion {
   flex-direction: column;
   align-items: center;
-  padding: 15px;
+  padding: 30px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   justify-content: center;
   background-color: #f8f8f8d9;
@@ -196,6 +196,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-decoration: none;
 }
 
+.Inspiracion h4 {
+  text-decoration: underline;
+}
 
 .pie {
   font-style: inherit;
