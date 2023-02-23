@@ -4,6 +4,10 @@
   border: 0px;
 }
 
+@media (min-width:576px) {
+  
+}
+
 :root {
   --main-color: azure;
 }
@@ -209,11 +213,6 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 form {
 padding: 10px;
 border-spacing: 10px;
-}
-
-
-.comentario-Contacto {
-  
 }
 
 .pie {
