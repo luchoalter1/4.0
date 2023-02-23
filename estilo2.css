@@ -148,6 +148,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
   align-items: center;
   padding: 15px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  justify-content: center;
 }
 
 .tit-estudios{
