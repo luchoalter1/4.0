@@ -200,6 +200,12 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-decoration: underline;
 }
 
+.tit-video {
+font-size: 1.7em;
+text-decoration: underline;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .pie {
   font-style: inherit;
   font-size: small;
