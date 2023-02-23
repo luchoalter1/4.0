@@ -205,6 +205,12 @@ text-decoration: underline;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+form {
+padding: 10px;
+border-spacing: 10px;
+}
+
+
 .comentario-Contacto {
   
 }
