@@ -169,7 +169,7 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 
 div[role="progressbar"] {
-  --size: 8rem;
+  --size: 7rem;
   --fg: #369;
   --bg: #def;
   --pgPercentage: var(--value);
@@ -240,6 +240,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-decoration: underline;
   text-align: center;
 }
+
 
 .tit-video {
 font-size: 1.7em;
