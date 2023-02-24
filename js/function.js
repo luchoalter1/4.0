@@ -1,5 +1,5 @@
-document.getElementById("boton-contacto").addEventListener ('click', function() {
-console.log ("Mail enviado");
+//document.getElementById("boton-contacto").addEventListener ('click', function() {
+//console.log ("Mail enviado");//
 //aca va la funcion de crear el pop upp con alerta de mail enviado// 
 
 }
