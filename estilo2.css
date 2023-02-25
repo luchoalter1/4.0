@@ -1,13 +1,16 @@
-* {
-  box-sizing: border-box;
-  margin: 0px;
-  border: 0px;
-}
+
 
 @media (min-width:576px) {
   
+  * {
+    box-sizing: border-box;
+    margin: 0px;
+    border: 0px;
+  }
 
-
+  body {
+    height: 100%;
+  }
 :root {
   --main-color: azure;
 }
@@ -133,6 +136,7 @@ text-align: justify;
 }
 
 
+
 h5 {
 font-size: 1.5em;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -253,9 +257,14 @@ padding: 10px;
 border-spacing: 10px;
 }
 
+.comentario-contacto {
+  font-size: larger;
+  text-decoration: double;
+}
+
 .pie {
-  font-style: inherit;
-  font-size: small;
+  font-style: inherit ;
+  font-size: small ;
   color: var(--main-color);
 }
 
