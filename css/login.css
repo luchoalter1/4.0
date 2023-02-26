@@ -38,7 +38,7 @@ body {
     max-width: 900px;
     width: 90%;
     
-    background-color: #5f6769;
+    background-color: #2c2c2c;
     
     /*opacity: 0.50;
     filter: alpha(opacity=50);*/
@@ -62,7 +62,7 @@ body {
     max-width: 320px;
     min-width: 320px;
     padding: 30px 30px 50px 30px;
-    background-color: #719192;
+    background-color: #0b3550;
     
     -webkit-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.15);
     -moz-box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.15);
@@ -82,7 +82,7 @@ body {
     display: block;
     font-family: 'Overpass', sans-serif;
     font-size: 120%;
-    color:#3c4245;
+    color:#c8c8c8;
     
     margin-top: 15px;
 }
