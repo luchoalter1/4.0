@@ -11,9 +11,11 @@
   body {
     height: 100%;
   }
+
 :root {
   --main-color: azure;
 }
+
 .img-fluid {
   height: 100%;
 }
