@@ -20,16 +20,22 @@ body {
      background-size: cover;
     }
 
+    h1 {
+        background: #f7f5f5;
+        
+    }
 .card {
     background: #6e6a6a; 
-    display: flex;
+    
     align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: row;
     min-width: 380px;
     max-width: 900px;
     width: 90%;
+  
 }
+
 
 h5 {
 font-size: 1.6rem;
