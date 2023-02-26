@@ -45,7 +45,7 @@ a {
 }
 
 .bg-text {
-  justify-content: center;
+  text-align: justify;
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 20px 20px;
   align-items: center;
