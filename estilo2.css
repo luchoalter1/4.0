@@ -272,6 +272,10 @@ padding: 10px;
 border-spacing: 10px;
 }
 
+textarea {
+    max-width: 100%;
+  }
+
 .comentario-contacto {
   font-size: larger;
   text-decoration: double;
