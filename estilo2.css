@@ -35,8 +35,8 @@ a {
 .bg-home {
   background-image: url(./imagenes/pexels-hasan-albari-1229861.jpg);
   padding: 70px;
-  height: 150vh;
-  width: 100vw;
+  height: 100%;
+  width: 100%;
   background-size: cover;
   box-sizing: border-box;
   background-position-y: no-repeat center center;
@@ -49,6 +49,8 @@ a {
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 20px 20px;
   align-items: center;
+  position: relative;
+  
     /* QUIERO DARLE ESTE FONDO AL TEXTO
 backdrop-filter: blur(1px);
 background-color: aliceblue;
@@ -63,6 +65,9 @@ border-radius: 2em;
     background:black;
     opacity: 0.6; 
     border-radius: .3em;
+    height: 100%;
+    width: 100%;
+    position: relative;
 }
 
 .github {
