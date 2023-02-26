@@ -8,8 +8,20 @@
   
 body {     
      height: 100%;
+     background: rgb(203, 166, 140);
     }
 
-    
+.card {
+    background: #6e6a6a;
+}
+
+h5 {
+font-size: 1.6rem;
+}
+
+ h6 {
+    color: aliceblue;
+    font-size: 1rem;
+ }
 
 }
