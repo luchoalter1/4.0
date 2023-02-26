@@ -9,7 +9,11 @@ function login() {
 
     if (usuario == "lucio" && password == "1234") {
         window.location = "ejemplo.html";
+    } else {
+        function alerta() {
+            alert("La Contraseña o Usuario son incorrectos");
     }
 
+}
 }
 
