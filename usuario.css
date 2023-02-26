@@ -22,7 +22,12 @@ body {
 
     h1 {
         background: #f7f5f5;
-        
+        font-variant-caps: small-caps; 
+    font-stretch: expanded;
+    }
+
+    h2 {
+        font-size: 3em;
     }
 .card {
     background: #6e6a6a; 
