@@ -1,0 +1,14 @@
+******* El archivo principal del portfolio es el "ejemplo.html" ******
+
+******* Conviene abrir primero el archivo "login.html" que nos linkea directamente con el portfolio en el caso de 
+poner bien usuario y contraseña (los cuales se referencian con un 'pop up') *******
+
+****** El archivo "login.html", en el caso de poner mal los datos, redirige al archivo "usuario.html" que opera a modo 
+  de 'pantalla visual' simplemente, ya que no dispongo de estructura back-end ni base de datos por el momento ******
+
+****** Espero sea del agrado de quien ingrese ********
+
+Gracias.
+
+Lucio Martinelli 
+   
