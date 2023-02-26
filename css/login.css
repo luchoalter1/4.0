@@ -156,7 +156,7 @@ body {
 
 .titulo {
     font-size: 300%;
-    color:#dfcdc3;
+    color:#dcd1cb;
 }
 
 .logo-empresa img {
@@ -165,7 +165,7 @@ body {
 
 hr {
     border-top: 1px solid #8c8b8b;
-	border-bottom: 1px solid #dfcdc3;
+	border-bottom: 1px solid #dcd1cb;
     
 }
 .pie-form {
@@ -177,7 +177,7 @@ hr {
 .pie-form a {
     display: block;
     text-decoration: none;
-    color: #dfcdc3;
+    color: #dcd1cb;
     margin-bottom: 3px;
 }
 
