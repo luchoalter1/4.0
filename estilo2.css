@@ -142,7 +142,10 @@ text-align: justify;
   text-shadow: 2px 2px 2px rgb(81, 89, 103);
 }
 
-
+.progressbar {
+  height: 100%;
+  width: 100%;
+}
 
 h5 {
 font-size: 1.5em;
