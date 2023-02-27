@@ -6,6 +6,9 @@ poner bien usuario y contraseña (los cuales se referencian con un 'pop up') ***
 ****** El archivo "login.html", en el caso de poner mal los datos, redirige al archivo "usuario.html" que opera a modo 
   de 'pantalla visual' simplemente, ya que no dispongo de estructura back-end ni base de datos por el momento ******
 
+****** El login.css me quedo dentro de la carpeta css. Los otros archivos css no los pude poner en esa carpeta porque despues 
+ se desincronizaban pese a que los linkeaba bien. ******
+
 ****** Espero sea del agrado de quien ingrese ********
 
 Gracias.
