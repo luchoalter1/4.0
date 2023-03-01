@@ -8,7 +8,7 @@ function login() {
     password = document.getElementById("password").value ;
 
     if (usuario == "lucio" && password == "1234") {
-        window.location = "ejemplo.html";
+        window.location = "index.html";
     } else {
         window.location = "usuario.html";
     }
